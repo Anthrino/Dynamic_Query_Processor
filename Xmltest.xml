@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Institution>
+
+	<Department>
+
+		<DName> Physics </DName>
+		<Intake> 50 </Intake>
+	
+	</Department>
+		
+	<Department>
+
+		<DName> Computer </DName>
+		<Intake> 80 </Intake>
+	
+	</Department>
+		
+	<Department>
+
+		<DName> Commerce </DName>
+		<Intake> 40 </Intake>
+		
+	</Department>
+
+
+	<Student>
+	
+		<Name> Tony Stark </Name>
+		<Ssn> 12312 </Ssn>
+		<DName> Computer </DName>
+
+	</Student>
+
+	<Student>
+
+		<Name> Steve Rogers </Name>
+		<Ssn> 93605 </Ssn>
+		<DName> Commerce </DName>
+		
+	</Student>
+
+	<Student>
+	
+		<Name> Murdoch </Name>
+		<Ssn> 83171 </Ssn>
+		<DName> Physics </DName>
+
+	</Student>
+
+	<Student>
+		
+		<Name> Bruce Wayne </Name>
+		<Ssn> 80337 </Ssn>
+		<DName> Computer </DName>
+
+	</Student>
+
+	<Student>
+	
+		<Name> Peter Parker </Name>
+		<Ssn> 54370 </Ssn>
+		<DName> Physics </DName>
+
+	</Student>
+
+	<Student>
+		
+		<Name> Hank McCoy </Name>
+		<Ssn> 49073 </Ssn>
+		<DName> Computer </DName>
+	
+	</Student>
+	
+	
+	<Employee>
+		
+		<EmpID> 41 </EmpID>
+		<Ename> Bruce Banner </Ename>
+		<Salary> 35000 </Salary>
+		<DName> Physics </DName>
+
+	</Employee>
+
+	<Employee>
+	
+		<EmpID> 2 </EmpID>
+		<Ename> Lucius Fox </Ename>
+		<Salary> 50000 </Salary>
+		<DName> Computer </DName>
+	
+	</Employee>
+
+	<Employee>
+
+		<EmpID> 24 </EmpID>
+		<Ename> Charles Xavier </Ename>
+		<Salary> 32000 </Salary>
+		<DName> Physics</DName>
+	
+	</Employee>
+
+	<Employee>
+
+		<EmpID> 37 </EmpID>
+		<Ename> William Stryker </Ename>
+		<Salary> 22000 </Salary>
+		<DName> Commerce</DName>
+
+	</Employee>
+		
+	<Employee>
+
+		<EmpID> 12 </EmpID>
+		<Ename> Anton Vanko </Ename>
+		<Salary> 34000 </Salary>
+		<DName> Physics</DName>
+
+	</Employee>
+	
+</Institution>
